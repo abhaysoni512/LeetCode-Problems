@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Design
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
