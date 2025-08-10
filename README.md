@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
