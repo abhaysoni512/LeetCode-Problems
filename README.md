@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
