@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [2383-add-two-integers](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2383-add-two-integers) |
 ## Two Pointers
@@ -109,7 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
