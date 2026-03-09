@@ -1,14 +1,17 @@
 class Solution {
 public:
     int bitwiseComplement(int n) {
-        if(n == 0) return 1;
-        int tmp = n;
+        if(n==0) return 1;
+        int ans = 0, rem = 0, mul = 1;
         
-        int mask = 0;
-        while(tmp){
-            mask = (mask<<1) | 1;
-            tmp /=2;
+        while(n){
+            rem = n%2;
+            rem = rem ^ 1;
+            n = n/2;
+            ans = ans + rem * mul;
+            mul*=2;
+           
         }
-        return n ^ mask;
+        return ans;
     }
 };
