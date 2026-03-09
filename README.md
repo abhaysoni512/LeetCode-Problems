@@ -60,15 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [2383-add-two-integers](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2383-add-two-integers) |
