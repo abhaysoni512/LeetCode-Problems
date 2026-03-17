@@ -5,8 +5,15 @@ public:
         unordered_map<string, vector<string>> mp;
 
         for(auto str: strs){
-            string key = str;
-            sort(key.begin(), key.end());
+            vector<int> freq(26,0);
+            for(auto c : str){
+                freq[c-'a']++;
+            }
+            // key generate
+            string key = "";
+            for(int i = 0; i<26; ++i){
+                key += to_string(freq[i]) + "#";
+            }
             mp[key].push_back(str);
         }
 
