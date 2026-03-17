@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## Linked List
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -122,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
