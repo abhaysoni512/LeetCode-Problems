@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
