@@ -17,8 +17,8 @@ public:
                     ans.push_back({a[i],a[left],a[right]});
                     left++;
                     right--;
-                    while(left<n-1 && a[left]== a[left-1]) left++;
-                    while(right>=0 && a[right]== a[right+1]) right--;
+                    while(left<right && a[left]== a[left-1]) left++;
+                    while(left<right && a[right]== a[right+1]) right--;
                 } else if(s<sum) left++;
                 else right--;
             }
