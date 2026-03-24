@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
