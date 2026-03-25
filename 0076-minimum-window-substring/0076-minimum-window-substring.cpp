@@ -1,41 +1,43 @@
 class Solution {
 public:
-    bool informationCorrect(vector<int> &have, vector<int> &needed){
-        for(int i=0; i<needed.size(); ++i){
-            if(have[i]<needed[i]) return false;
-        }
-        return true;
-    }
-
-    
     string minWindow(string s, string t) {
-        int high{};
-        int low{};
+        vector<int> need(256, 0), have(256, 0);
+
+        for(char c : t)
+            need[c]++;
+
+        int required = t.size();
+        int formed = 0;
+
+        int low = 0;
         int res = INT_MAX;
-        int starting_point_for_substring = 0;
-        int window_len{};
+        int start = 0;
 
-        vector<int> needed(256);
-        for(const char c: t){
-            needed[c]++;
-        }
+        for(int high = 0; high < s.size(); ++high) {
+            char c = s[high];
+            have[c]++;
 
-        vector<int> have(256);
+            if(have[c] <= need[c])
+                formed++;
 
-        for(;high<s.size(); ++high){
-            have[s[high]]++;
+            while(formed == required) {
+                int len = high - low + 1;
 
-            while(informationCorrect(have, needed)){
-                window_len = high - low + 1;
-                if(res > window_len){
-                    res = window_len;
-                    starting_point_for_substring = low;
+                if(len < res) {
+                    res = len;
+                    start = low;
                 }
-                have[s[low]]--;
-                low++;    
-            }
 
+                char leftChar = s[low];
+                have[leftChar]--;
+
+                if(have[leftChar] < need[leftChar])
+                    formed--;
+
+                low++;
+            }
         }
-        return (res==INT_MAX)? "": s.substr(starting_point_for_substring, res );
+
+        return res == INT_MAX ? "" : s.substr(start, res);
     }
 };
