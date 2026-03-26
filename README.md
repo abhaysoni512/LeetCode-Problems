@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
