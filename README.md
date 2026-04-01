@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
