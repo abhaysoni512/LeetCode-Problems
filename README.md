@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
