@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -241,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
