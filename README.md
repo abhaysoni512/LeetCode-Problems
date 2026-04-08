@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [2383-add-two-integers](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2383-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
