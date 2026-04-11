@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+| [1486-xor-operation-in-an-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
