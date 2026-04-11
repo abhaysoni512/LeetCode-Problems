@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Design
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [2383-add-two-integers](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2383-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
