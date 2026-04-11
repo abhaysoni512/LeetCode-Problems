@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
