@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1791-richest-customer-wealth](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
