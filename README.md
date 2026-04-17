@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abhaysoni512/LeetCode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
