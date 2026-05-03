@@ -8,21 +8,18 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        // we require three pointer (sliding pointer)
-        ListNode *q = NULL, *r = NULL;
-        ListNode *p = head;
-        while(p){
-            r = q;
-            q = p;
-            p = p->next;
-            q->next = r;
+        ListNode* prev{nullptr};
+        ListNode* curr{head};
+
+        while(curr){
+            ListNode* tmp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = tmp;
         }
-        head = q;
-        return head;
+        return prev;
     }
-    
 };
