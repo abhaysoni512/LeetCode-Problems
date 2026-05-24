@@ -11,7 +11,7 @@
 class Solution {
 #define Node ListNode
 #define null NULL
-    Node* reverse(ListNode* head, int size){
+    void reverse(ListNode* head, int size){
         // 100-->200
         ListNode* curr = head; // curr = 100
         ListNode* prev = NULL;  // prev = NULL
@@ -21,7 +21,6 @@ class Solution {
             prev = curr;                // prev = 100 // prev = 200
             curr = tmp;                 // curr = 200 // curr = null
         }
-        return prev;
     }
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
@@ -40,7 +39,7 @@ public:
             }
             if(right){
                 Node* nextleft = right->next;
-                right = reverse(left, size);
+                reverse(left, size);
                 if(prevleft){
                     prevleft->next = right;
                 }
