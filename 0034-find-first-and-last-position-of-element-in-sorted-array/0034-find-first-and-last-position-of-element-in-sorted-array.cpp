@@ -1,24 +1,27 @@
 class Solution {
 public:
+#define a nums
+#define x target
+#define mid guess
     vector<int> searchRange(vector<int>& nums, int target) {
         int first = -1, last = -1;
 
         int low = 0, high = nums.size() - 1;
 
-        // Find first occurrence
+        // Find first occurrence 
         while (low <= high) {
-            int mid = low + (high - low) / 2;
+            int guess = low + (high - low) / 2;
 
-            if (nums[mid] == target) {
-                first = mid;
-                high = mid - 1;
-            }
-            else if (nums[mid] < target) {
+            if(a[guess] == x){
+                first = guess;
+                high = guess - 1;
+            } else if (nums[mid] < target) {
                 low = mid + 1;
             }
             else {
                 high = mid - 1;
             }
+            
         }
 
         low = 0;
